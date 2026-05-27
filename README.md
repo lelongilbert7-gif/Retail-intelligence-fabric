@@ -168,7 +168,7 @@ bike_events
 ---
 
 ## 🎥 Walkthrough Video
-*[Loom link — coming soon]*
+(https://www.loom.com/share/d2323d70b04d419d9c268160067dfa53)
 
 ---
 
